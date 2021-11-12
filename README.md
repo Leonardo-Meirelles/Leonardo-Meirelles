@@ -1,8 +1,8 @@
 ### Hello there! I was awaiting your visit.
 
 
-- 🌱 I’m currently studying Full Stack Development.
-- ⚡ Fun fact: I'm an airplane pilot :)
+- 🌱 I’m a Full Stack Developer.
+- ⚡ Fun fact: I'm also an airplane pilot :)
 
 <div>
   <a href="https://github.com/Leonardo-Meirelles">
